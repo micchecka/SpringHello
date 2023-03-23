@@ -6,7 +6,7 @@ public class Cat {
         return meow;
     }
 
-    public void setMeow(String message) {
-        this.meow = message;
+    public void setMeow(String meow) {
+        this.meow = meow;
     }
 }
